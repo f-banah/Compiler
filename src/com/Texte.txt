@@ -1,0 +1,7 @@
+debut
+
+int a ;
+print ( "hygr" ) ;
+
+
+fin
