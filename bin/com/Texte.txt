@@ -1,0 +1,28 @@
+debut
+
+int t ;
+t = 5 + 2 ;
+print (  8 + 8 ) ;
+
+print (   7 + t  ) ;
+
+read ( t ) ;
+
+ t = t + 8 ;
+
+print ( t ) ;
+
+while t > 20
+{
+   print ( "Bonjour" ) ;
+   t = t + 1 ; 
+}
+
+fin
+
+
+
+
+
+
+
